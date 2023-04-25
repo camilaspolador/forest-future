@@ -9,6 +9,7 @@ The objective of this project is for the user to contemplate the importance of t
 
 ## Public domain audio credits: 
 • Miss You Love by Patiño from studio.YouTube as “germinationsong.m4a”: this audio was used in the germination screen as a background audio.
+
 • Blue Dream by Cheel from studio.YouTube as “backgrundb.m4a”: this audio was used for the beginning as an intro song.
 • Humidifier Bubble by sound effects from studio.Youtube as “polenn.m4a”: this audio was chosen to represent a wind sound in the pollination screen.
 • Small Stream Flowing by sound effects from studio.Youtube as “river.m4a”: this audio was used to represent a waterfall. 
